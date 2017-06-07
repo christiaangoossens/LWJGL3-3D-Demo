@@ -1,0 +1,2 @@
+# LWJGL3 3D Demo
+Just some random LWJGL3 application showing an awesome cube in the vast nothingness of space. This was not finished, and will propably never be finished, as it was just an excercise in OpenGL 3D programming.
